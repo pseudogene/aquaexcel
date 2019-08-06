@@ -1,12 +1,12 @@
 # Introductory Bioinformatic Course to Sequencing Data Processing
 
-![GitHub Downloads](https://img.shields.io/static/v1?label=course&message=in development&color=red)
+![GitHub Downloads](https://img.shields.io/static/v1?label=course&message=in_development&color=red)
 
 ## Timetable
 
 Time amd location are subject to changes, but here is the last version of the timetable.
 
-![Timetable](Timetable.png)
+![Timetable](timetable.png)
 
 
 ## Content
