@@ -1,6 +1,7 @@
 # Introductory Bioinformatic Course to Sequencing Data Processing
 
-![GitHub Downloads](https://img.shields.io/static/v1?label=course&message=in_development&color=red)
+[![GitHub Downloads](https://img.shields.io/static/v1?label=Project&message=AquaExcel2020&color=blue)](http://www.aquaexcel2020.eu/)
+![GitHub Downloads](https://img.shields.io/static/v1?label=Course&message=In+development&color=red)
 
 ## Timetable
 
@@ -11,7 +12,7 @@ Time amd location are subject to changes, but here is the last version of the ti
 
 ## Content
 
-For further information, please visit the [Wiki](https://github.com/pseudogene/aquaexcel/wiki).
+For further information of this [AquaExcel<sup>2020</sup>](http://www.aquaexcel2020.eu/) course, please visit the [Wiki](https://github.com/pseudogene/aquaexcel/wiki).
 
 
 ## License & Distribution
