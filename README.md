@@ -14,6 +14,7 @@ Time amd location are subject to changes, but here is the last version of the ti
 
 For further information of this [AquaExcel<sup>2020</sup>](http://www.aquaexcel2020.eu/) course, please visit the [Wiki](https://github.com/pseudogene/aquaexcel/wiki).
 
+![AquaExcel2020](aquaexcel2020.png)
 
 ## License & Distribution
 
